@@ -1,123 +1,58 @@
+# Data Science Portfolio
 ---
-layout: default
+## Machine learning
+
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+<center><img src="images/Fraud_Detection.jpg"/></center>
+
 ---
+### Landing Gear Controller
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Rustom-II is Medium Altitude Long endurance unmanned Aerial Vehicle.
+Rustom-II UAV having functionality of under carriage retractable tricycle landing gear With steerable nose and it consists of Nose Gear and Main LandingGears.
+Landing Gear Controller is connected to RFCC through MIL 1553B interface.
+RFCC is acts as Bus Controller and LGC is acts as Remote Terminal.
+Activate the Landing Gear subsystem using assembly like Hydraulic Power pack is to 
+function Deployment valve ,Retraction valve and Brake valve.
+Landing Gear Controller is required to control and monitor the Deployment and
+Retraction of Landing Gears and Control and Monitor operation of Brake sequence
 
-[Link to another page](./another-page.html).
+<center><img src="images/Landing_Gear.jpg"/></center>
 
-There should be whitespace between paragraphs.
+---
+### Aircraft Condition Monitoring System
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+An Aircraft Condition Monitoring system is a predictive maintenance tool consisting of 
+high capacity flight data acquisition unit and the associated sensors that sample, 
+monitor and record the information of flight parameters from significant aircraft 
+system and components.
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+It is the process by which one or more parameters of a machine are either 
+periodically measured or continuously monitored to identify significant changes that 
+usually are indicative of a failure in progress. This allows the operator to plan 
+maintenance action focused on avoiding failures.
 
 
-### Definition lists can be used with HTML syntax.
+<center><img src="images/ACMS.jpg"/></center>
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+---
+### Brake Control Monitoring System for COMAC919
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+C919 Commercial Airplane for this Crane will assist in the Integration of the Brake 
+Control System which include Smartstem passive, Wireless tire pressure sensing 
+technology and Brake Temperature Monitoring System.
 
-```
-The final element.
-```
+Brake Controllers receive inputs from sensors which monitor parameters such as 
+position,speed,torque,lockup and slip status.
+
+The Brake Control and Monitoring System(BCMS) contain all the necessary Brake 
+Control,Autobrake,Antiskid,Tire Pressure Indication, Brake Temperature Monitoring 
+and Built-In Test(BIT) functionality for the Main Landing Gear(MLG) wheels and Nose 
+Landing Gear(NLG) wheels.
+
+<center><img src="images/BCMS.jpg"/></center>
+
+---
