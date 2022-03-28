@@ -6,11 +6,14 @@
 
 Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sreddy-51773947/fraud_detection)
+
 <center><img src="images/Fraud_Detection.jpg"/></center>
 
 ---
 ### Landing Gear Controller
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sreddy-51773947)
 Rustom-II is Medium Altitude Long endurance unmanned Aerial Vehicle.
 Rustom-II UAV having functionality of under carriage retractable tricycle landing gear With steerable nose and it consists of Nose Gear and Main LandingGears.
 Landing Gear Controller is connected to RFCC through MIL 1553B interface.
@@ -24,6 +27,8 @@ Retraction of Landing Gears and Control and Monitor operation of Brake sequence
 
 ---
 ### Aircraft Condition Monitoring System
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sreddy-51773947)
 
 An Aircraft Condition Monitoring system is a predictive maintenance tool consisting of 
 high capacity flight data acquisition unit and the associated sensors that sample, 
@@ -40,6 +45,8 @@ maintenance action focused on avoiding failures.
 
 ---
 ### Brake Control Monitoring System for COMAC919
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sreddy-51773947)
 
 C919 Commercial Airplane for this Crane will assist in the Integration of the Brake 
 Control System which include Smartstem passive, Wireless tire pressure sensing 
