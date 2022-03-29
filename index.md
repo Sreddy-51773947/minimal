@@ -8,6 +8,6 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Sreddy-51773947/fraud_detection)
 
-<center><img src="images/Fraud_Detection.jpg"/></center>
+<center><img src="assets/img/Fraud_Detection.jpg"/></center>
 
 ---
